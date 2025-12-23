@@ -105,6 +105,24 @@ This project was done to practice:
 2. Install required libraries
 3. Run the notebook or Python script step by step
 
+
+## Business Questions & Answers we get 
+
+### 1. Which neighbourhood group has the highest number of Airbnb listings?
+Brooklyn and Manhattan have the highest number of listings, with Brooklyn slightly leading. This shows that these two areas are the most active Airbnb markets.
+
+### 2. What is the most common room type?
+Entire home/apartment is the most common room type, followed closely by private rooms. Shared rooms and hotel rooms make up a very small portion of listings.
+
+### 3. Do verified hosts receive better reviews than unverified hosts?
+Yes, verified hosts have a slightly higher average review rating compared to unconfirmed hosts. This suggests that host verification helps build trust with guests.
+
+### 4. How do review ratings vary across neighbourhoods and room types?
+Review ratings are fairly consistent across neighbourhood groups, but hotel rooms and entire homes tend to receive slightly higher ratings compared to shared rooms.
+
+### 5. Is there a relationship between the number of listings owned by a host and availability?
+There is a weak positive correlation (≈ 0.13) between calculated host listings count and availability. This indicates that having more listings does not strongly affect availability.
+
 ## License
 
 This project is created for learning and educational purposes.  
